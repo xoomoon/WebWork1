@@ -1,0 +1,107 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    border:0;
+}
+
+body
+{
+    font-family: PingFangSC-Regular, Verdana, Arial, '微软雅黑', '宋体', serif;
+}
+
+header
+{
+    background-color:black;
+    color:white;
+    padding:20px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+header a
+{
+    font-size: 50px;
+    text-align: left;
+    padding: 10px;
+    color: white;
+}
+
+header form
+{
+    text-align: right;
+}
+
+header input
+{
+    border: 1px;
+}
+
+nav
+{
+    float: left;
+    width: 150px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid;
+    padding: 5px;
+}
+
+nav a
+{
+    color: black;
+    padding: 5px 30px;
+}
+
+nav a:hover
+{
+    background-color: black;
+    color: white;
+}
+
+article
+{
+    text-align: center;
+    float: left;
+    width: 500px;
+    padding: 10px;
+}
+
+article h1
+{
+    padding-bottom: 15px;
+}
+
+footer
+{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    clear: both;
+    color:white;
+}
+
+#content
+{
+    width:700px;
+    margin: 10px auto;
+}
+
+ul li
+{
+    list-style-type: none;
+}
+
+main
+{
+    text-align:justify;
+    text-indent:32px;
+}
+
+input[type="submit"]
+{
+    padding: 2px 20px;
+}
