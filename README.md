@@ -1,3 +1,3 @@
 # WebWork1
 1
-[link](/web/)
+[link](/web/index.html)
